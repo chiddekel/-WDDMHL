@@ -6,4 +6,4 @@ https://static.lwn.net/images/pdf/LDD3/ch13.pdf
 
 
 
-   repo move to: https://github.com/FreeWindowsHardwareFundation/-WDDMHL
+   Repo move to: https://github.com/FreeWindowsHardwareFundation/-WDDMHL
